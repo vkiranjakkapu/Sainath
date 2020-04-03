@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "Details":{
+                "name": "Jakkapu Venkata Kiran",
+                "email": "venkatakiran.jakkapu@gmail.com"
+            },
+            "education":[
+                {
+                    "Degree": "ECE",
+                    "clg": "RGUKT SKLM"
+                },
+                {
+                    "Degree": "PUC",
+                    "clg": "RGUKT SKLM"
+                },
+                {
+                    "Degree": "SSC",
+                    "clg": "ZPHS UNDI"
+                }
+            ]
+        },
+        {
+            "Details":{
+                "name": "Puja Kavuru",
+                "email": "kpj@gmail.com"
+            },
+            "education":[
+                {
+                    "Degree": "Mechanical",
+                    "clg": "RGUKT SKLM"
+                },
+                {
+                    "Degree": "Pre University Course",
+                    "clg": "RGUKT SKLM"
+                },
+                {
+                    "Degree": "SSC",
+                    "clg": "ZPHS Narsapuram (Vemula Dheevi)"
+                }
+            ]
+        }
+    ]
+}
